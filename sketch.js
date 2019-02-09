@@ -1,22 +1,18 @@
 /*
-	JOAO MARTINHO MOURA, 2011
+  'Transversal Lines', 2011
+  infinite abstract visual b&w line work.
+  by Joao Martinho Moura, 2011. 
 
-	http://www.jmartinho.net
-		
-	HTML5 Visual Art - " Transversal Lines, 2011 "
-	Transversal Lines: infinite abstract visual b&w line work,
-	by Joao Martinho Moura, 2011. 
+  http://jmartinho.net/transversal-lines
 
-	http://jmartinho.net/transversal-lines
+  This code was created in 2010, presented in the Processing.js homepage in 2013,
+  and exhibited at MEDIA LAB PRADO, Madrid, in 2013 for the Processing Community Day.
 
-	This code was created in 2010, presented in the Processing.js homepage in 2013,
-	and exhibited at MEDIA LAB PRADO, Madrid, in 2013 for the Processing Community Day.
+  Processing was initiated by Ben Fry and Casey Reas. It is developed by a small team of volunteers.
+  John Resig ported the 2D context of processing to javascript using the html5 canvas element in 2012.
 
-	Processing was initiated by Ben Fry and Casey Reas. It is developed by a small team of volunteers.
-	John Resig ported the 2D context of processing to javascript using the html5 canvas element in 2012.
-
-	p5.js was created by Lauren McCarthy and is developed by a community of collaborators 
-	In 2019 I decided to port this skect to p5js 
+  p5.js was created by Lauren McCarthy and is developed by a community of collaborators 
+  In 2019 I decided to port this sketch to p5js 
   
 */	
 
