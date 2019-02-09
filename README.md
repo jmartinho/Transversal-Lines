@@ -22,6 +22,10 @@
 
 ![alt text](https://github.com/jmartinho/Transversal-Lines/blob/master/Images/imageSequences.gif?raw=true)
 
+
+
+
+
 ![alt text](https://github.com/jmartinho/Transversal-Lines/blob/master/Images/transversal-lines_Joao-Martinho-Moura_MediaLabPrado_01.jpg?raw=true)
 
 ![alt text](https://github.com/jmartinho/Transversal-Lines/blob/master/Images/transversal-lines_Joao-Martinho-Moura_MediaLabPrado_02.jpg?raw=true)
