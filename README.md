@@ -2,7 +2,7 @@
 
   João Martinho Moura.
 
-	See it online at: [http://jmartinho.net/transversal-lines](http://jmartinho.net/transversal-lines)
+	See it online at: http://jmartinho.net/transversal-lines
 		
 	'Transversal Lines', 2011
 	infinite abstract visual b&w line work.
