@@ -4,9 +4,9 @@
 
 	See it online at: http://jmartinho.net/transversal-lines
 		
-	'Transversal Lines', 2011
+	'Transversal Lines'
 	infinite abstract visual b&w line work.
-	by Joao Martinho Moura, 2011. 
+	by Joao Martinho Moura, 2010. 
 
 
 	This code was created in 2010, presented in the Processing.js homepage in 2013,
